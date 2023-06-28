@@ -1,0 +1,40 @@
+/* .ic {
+    position: absolute;
+    left: 12px;
+    bottom: 14px;
+    margin-right: 2rem;
+} */
+
+.section2 {
+    padding: 1.5rem;
+    background-color: rgb(53, 53, 253);
+    /* height: 13rem; */
+    margin-top: 4rem;
+    /* padding: 10rem auto; */
+    /* align-items: center; */
+
+
+}
+
+.contener {
+    margin: 0;
+}
+
+.icport {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 50%;
+}
+
+.icp {
+    
+    padding: 0 !important;
+}
+
+.cont {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}

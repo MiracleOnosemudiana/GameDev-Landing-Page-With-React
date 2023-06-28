@@ -1,0 +1,44 @@
+.section1 {
+    background-image: url(../images/pexels-serpstat-572056\ \(2\).jpg);
+    background-size: cover;
+    width: 100%;
+    height: 42rem;
+    background-color: rgba(0, 0, 255, 0.7);
+    background-blend-mode: overlay;
+    /* backdrop-filter: blur; */
+    
+}
+
+
+.head-section {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding-top: 7rem;
+    color: white;
+}
+
+.head-section-h1 {
+    font-size: calc( 7vw + 5px);
+}
+
+.head-section-p {
+    line-height: 2rem;
+    font-size: larger;
+    padding-top: 2rem;
+}
+
+.get-started {
+    width: 10rem;
+    height: 3rem;
+    color: rgb(76, 76, 250);
+    border-radius: 2rem;
+    border: 1px solid rgb(76, 76, 250);
+    font-weight: bolder;
+    background: white;
+    text-decoration-line: none;
+}
+
+.get-started:hover {
+    background-color: rgba(0, 0, 0, 0.452);
+    color: white;
+}
